@@ -144,6 +144,7 @@ const state = {
                 'Prof. Dr. Tjahjono D. Gondhowiardjo, SpM(K), PhD',
                 'Dr. Vidyapati Mangunkusumo, SpM(K)',
                 'Dr. Damara Andalia, SpM',
+                'Dr. Niluh Archi S. R., SpM'
             ],
             location: [
                 'JEC @ Kedoya',
