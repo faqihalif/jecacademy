@@ -1,8 +1,8 @@
 const state = {
     services: [
         {
-            name: 'Refractive Surgery Service',
-            slug: 'refractive-surgery-service',
+            name: 'Cataract and Refractive Surgery Service',
+            slug: 'cataract-and-refractive-surgery-service',
             overview: [
                 'JEC Academy offers 3 months fellowship program in Refractive surgery. Activities will consist of outpatient clinical and surgical care, and inpatient consultation.',
                 'The goal of this fellowship program is to produce an ophthalmologist with subspecialty skills that allow independent medical and surgical management of cornea and external disease.',
