@@ -18,7 +18,7 @@
                     <h4 class="font-bold text-xl mb-2 md:text-2xl">About the program</h4>
                     <p>These programs are dedicated to enrich the quality of ophthalmic nursing. The specialized programs will allow nurses to learn and expand their skills focusing on ophthalmologic cases and managements.</p>
                     <br />
-                    <p>This course will be administered and certified by IKPAMI ((Ikatan Perawatan Mata Indonesia) & PPNI (Persatuan Perawat Nasional Indonesia) the official board of nurses of Indonesia.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quaerat nisi repudiandae cum necessitatibus nobis molestias a blanditiis voluptas adipisci similique aut corrupti velit dolore, minus totam. Unde, error pariatur.</p>
                 </div>
                 <div>
                     <img class="h-full w-full bg-center object-cover rounded-lg" src="~@/assets/photos/photo-nursing.jpg" alt="Photo Nursing">

@@ -9,13 +9,10 @@ const state = {
                 'Program ini berlangsung selama 3 (tiga) bulan yaitu 2 (dua) minggu di kelas untuk mendapatkan teori dan 10 (sepuluh) minggu praktek di lahan praktek.'
             ],
             afterThisProgram: [
-                'Sejarah perusahaan, struktur organisasi serta visi, misi dan nilai-nilai yang terkandung dalam organisasi.',
-                'Memahami alur pelayanan di RS Mata & Klinik JEC',
-                'Memahami pengetahuan ophthalmologi dasar.',
-                'Memahami pengetahuan ophthalmic nursing dasar.',
-                'Memahami anatomi mata dasar.',
-                'Memahami penyakit dan kelainan pada mata.',
-                'Memahami refraksi obyektif dan subyektif.'
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.'
             ],
             clinicalInstructor: [
                 'Andhi Yudhianto, A.Md.Kep',
@@ -36,13 +33,10 @@ const state = {
                 'Program pelatihan khusus untuk perawat mata agar mahir dalam menggunakan alat pemeriksaan biometri, baik immersion atau laser inferometer.  Perawat yang mahir melakukan pemeriksaan biometri atau biasa disebut petugas biometri akan mendapatkan pengetahuan dan praktek tentang biometri. Termasuk bagaimana menangani kasus sulit dan kendala dalam pemeriksaan. Fellows will participate and assist in the CDC room under supervision senior ophthalmic nurse CDC.'
             ],
             afterThisProgram: [
-                'Sejarah perusahaan, struktur organisasi serta visi, misi dan nilai-nilai yang terkandung dalam organisasi.',
-                'Memahami alur pelayanan di RS Mata & Klinik JEC',
-                'Memahami pengetahuan ophthalmologi dasar.',
-                'Memahami pengetahuan ophthalmic nursing dasar.',
-                'Memahami anatomi mata dasar.',
-                'Memahami penyakit dan kelainan pada mata.',
-                'Memahami refraksi obyektif dan subyektif.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.'
             ],
             clinicalInstructor: [
                 'Andhi Yudhianto, A.Md.Kep',
@@ -63,13 +57,10 @@ const state = {
                 'Program pelatihan khusus untuk perawat mata agar mahir menggunakan alat pemeriksaan luas lapang pandang atau campimetri humphrey. Pelatihan meliputi anamnesa pasien, pemeriksaan dan evaluasi hasil pemeriksaan. Fellows will participate and assist in the CDC room under supervision senior ophthalmic nurse CDC. This program is a clinical 3 months program. Activities including data collection, statistical analysis and publication of articles.'
             ],
             afterThisProgram: [
-                'Sejarah perusahaan, struktur organisasi serta visi, misi dan nilai-nilai yang terkandung dalam organisasi.',
-                'Memahami alur pelayanan di RS Mata & Klinik JEC',
-                'Memahami pengetahuan ophthalmologi dasar.',
-                'Memahami pengetahuan ophthalmic nursing dasar.',
-                'Memahami anatomi mata dasar.',
-                'Memahami penyakit dan kelainan pada mata.',
-                'Memahami refraksi obyektif dan subyektif.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.'
             ],
             clinicalInstructor: [
                 'Andhi Yudhianto, A.Md.Kep',
@@ -90,14 +81,10 @@ const state = {
                 'Program pelatihan untuk tenaga refraksionis optisien yang telah bekerja di RS/ Klinik mata. Program ini dipersiapkan untuk meningkatkan kompetensi refraksionis dalam lingkup kerja di RS/ Klinik mata. Fellows will participate and assist in the BDR room under supervision senior refractionist BDR.'
             ],
             afterThisProgram: [
-                'Sejarah perusahaan, struktur organisasi serta visi, misi dan nilai-nilai yang terkandung dalam organisasi.',
-                'Memahami alur pelayanan di RS Mata & Klinik JEC',
-                'Memahami pengetahuan refraksionis dasar',
-                'Memahami pengetahuan streak retinoscopy dan prakteknya',
-                'Penguasaan alat pemeriksaan refracting unit',
-                'Pemeriksaan refraksi ; Low Vision',
-                'Memahami jenis-jenis kaca mata dan lensa kontak',
-                'Memahami pemeriksaan penunjang di refeksi ; corneal topography, keraometri, autorefraktokeratometer, dll'
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.',
+                'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut at egestas mi, quis luctus tortor.'
             ],
             clinicalInstructor: [
                 'Agus Rujito, A.Md, RO',

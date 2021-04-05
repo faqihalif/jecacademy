@@ -20,6 +20,11 @@ const routes = [
         path: '/news',
         component: () => import('@/pages/news/index.vue')
     },
+    {   
+        name: 'NewsDetail',
+        path: '/news/buku-panduan-covid',
+        component: () => import('@/pages/news/detail.vue')
+    },
 
     // Programs
     {   
@@ -69,6 +74,11 @@ const routes = [
                 })
             }
         }
+    },
+    {   
+        name: 'AlliedHealth',
+        path: '/allied-health',
+        component: () => import('@/pages/programs/allied-health/index.vue')
     },
     {   
         name: 'Alumni',

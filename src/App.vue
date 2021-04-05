@@ -76,7 +76,7 @@
                         <a href="https://jec.co.id/" target="_blank" rel="noopener noreferrer">
                             <img class="mb-4" src="./assets/images/logo-jec-white.png" alt="Logo JEC White">
                         </a>
-                        <h6 class="text-xs text-gray-300">© 2020 JEC Academy. Managed by Research And Education Division</h6>
+                        <h6 class="text-xs text-gray-300">© 2021 JEC Academy. Managed by Research And Education Division</h6>
                     </div>
                     <div>
                         <h5 class="text-gray-300 font-bold mb-2">Quick Links</h5>
