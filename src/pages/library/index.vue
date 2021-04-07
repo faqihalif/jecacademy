@@ -17,7 +17,7 @@
                     <div class="flex justify-end mb-4">
                         <span class="rounded-full px-2 font-bold text-sm bg-blue-500 text-white">{{ library.year }}</span>
                     </div>
-                    <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
+                    <!-- <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
                         <div v-for="(journal, index) in library.journals" :key="index">
                             <router-link :to="{name: 'LibraryDetail', params: {year: library.year, slug: journal.slug}}">
                                 <div class="flex flex-col">
@@ -33,7 +33,7 @@
                                 </div>
                             </router-link>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="overflow-auto max-h-screen w-full min-w-full">
                         <table class="table-auto w-full">
                             <thead>
