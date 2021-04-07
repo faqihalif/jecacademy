@@ -81,9 +81,38 @@ const routes = [
         component: () => import('@/pages/programs/allied-health/index.vue')
     },
     {   
+        name: 'AlliedHealthProgramsCourse',
+        path: '/allied-health/:courseSlug',
+        component: () => import('@/pages/programs/allied-health/detail.vue'),
+        beforeEnter: (to, from, next) => {
+            let courses = store.state.AlliedHealth.courses
+            let exist = courses.find(course => {
+                return course.slug === to.params.courseSlug  
+            })
+
+            if(exist) {
+                next()
+            } else {
+                next({
+                    name: '404'
+                })
+            }
+        }
+    },
+    {   
         name: 'Alumni',
         path: '/alumni',
         component: () => import('@/pages/alumni/index.vue')
+    },
+    {   
+        name: 'Library',
+        path: '/library',
+        component: () => import('@/pages/library/index.vue')
+    },
+    {   
+        name: 'LibraryDetail',
+        path: '/library/:year/:slug',
+        component: () => import('@/pages/library/detail.vue')
     },
     {
         name: '404',

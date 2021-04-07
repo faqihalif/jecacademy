@@ -22,7 +22,8 @@
                         </div>
                         <a href="https://elearning.jec.co.id/" target="_blank" rel="noopener noreferrer" class="mr-8 hover:text-blue-800 focus:text-blue-800 focus:font-bold">E-learning</a>
                         <router-link to="/about" class="mr-8 hover:text-blue-800 focus:text-blue-800 focus:font-bold" :class="currentPath.includes('/about') ? 'font-bold text-blue-800' : ''">About</router-link>
-                        <router-link to="/news" class="hover:text-blue-800 focus:text-blue-800 focus:font-bold" :class="currentPath.includes('/news') ? 'font-bold text-blue-800' : ''">News</router-link>
+                        <router-link to="/news" class="mr-8 hover:text-blue-800 focus:text-blue-800 focus:font-bold" :class="currentPath.includes('/news') ? 'font-bold text-blue-800' : ''">News</router-link>
+                        <router-link to="/library" class="hover:text-blue-800 focus:text-blue-800 focus:font-bold" :class="currentPath.includes('/library') ? 'font-bold text-blue-800' : ''">Library</router-link>
                     </div>
 
                     <!-- Menu -->
